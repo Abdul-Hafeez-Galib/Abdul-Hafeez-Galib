@@ -19,9 +19,10 @@
 
 # 📊 GitHub Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Abdul-Hafeez-Galib&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="abdul-hafeez-galib" /></p>
+<br/>
 <p align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul-Hafeez-Galib&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="abdul-hafeez-galib" /></p>
 <br/>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul-Hafeez-Galib&theme=dark&hide_border=false" alt="abdul-hafeez-galib" /></p>
 <br/>
 
-<p align="right"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="abdul-hafeez-galib" /></p>
+<p align="right"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="abdul-hafeez-galib" style="width:500px;height:600px;" /></p>
