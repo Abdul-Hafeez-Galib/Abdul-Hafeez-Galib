@@ -1,15 +1,13 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/>, I'm Abdul Hafeez Galib</h1>
 <h3 align="center">A passionate programmer from Kerala, India</h3>
 
-- 💻 I'm currently working on Blockchain and Software Dev Projects (WebDev and AppDev)<br>
+- 💻 Data Analyst | Machine Learning | Research<br>
 
-- 🎓 I'm a Computer Science student (graduating in September 2024)
+- 🎓 Computer Science Graduate 
 
-- 👯 I’m looking to collaborate on **open-source projects** involving any Computer Science domain
+- 👯 Collaborating on open-source projects in any Computer Science domain
 
-- 📫 How to reach me **galibabdulhafeez@gmail.com**
-
-- ⚡ Fun fact **I love playing sports and watching travel vlogs.**
+- ⚡ Passionate about exploring and learning new technologies
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-hafeez-galib) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/GalibHafeez) 
